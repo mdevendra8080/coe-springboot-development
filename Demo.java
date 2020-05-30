@@ -5,5 +5,7 @@ class Demo
 		System.out.println("GIT Demo with GI BASH");
 		
 		int a =10;
+		a++;
+		int b=10;		
 	}
 }
